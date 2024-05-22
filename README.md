@@ -37,8 +37,9 @@ while True:
  s.send("Acknowledgement Recived".encode())
 ```
 ## OUTPUT
-![326899587-cb1a37fe-dbdd-4bf3-b3ec-b1d3923a65d7](https://github.com/VerginJenifer/2a_Stop_and_Wait_Protocol/assets/13625101![326899650-74daf394-4e08-49cc-b248-7188090427ec](https://github.com/VerginJenifer/2a_Stop_and_Wait_Protocol/assets/136251012/3883cf62-71aa-4279-8c41-457df10599ac)
-2/4653eada-cb4e-40d4-959a-6472352106fa)
+![326899587-cb1a37fe-dbdd-4bf3-b3ec-b1d3923a65d7](https://github.com/VerginJenifer/2a_Stop_and_Wait_Protocol/assets/136251012/9f330077-75bd-459e-a3cf-a4e5fc728d2f)
+
+![326899650-74daf394-4e08-49cc-b248-7188090427ec](https://github.com/VerginJenifer/2a_Stop_and_Wait_Protocol/assets/136251012/3db86e76-2fd4-4410-b1a8-eb2f53c0aed9)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
